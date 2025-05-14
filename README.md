@@ -1,2 +1,1 @@
-# AI-Agent-ChatBot
-AI Agent for Research Paper Analysis and Question Answering
+# Development of an AI Agent for Research Paper Analysis and Question Answering
